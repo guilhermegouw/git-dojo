@@ -1,3 +1,2 @@
 Exemplo de arquivo de texto.
-Mais uma linha pra criar um conflito
-j
+Essa linha vai causar um conflito.
